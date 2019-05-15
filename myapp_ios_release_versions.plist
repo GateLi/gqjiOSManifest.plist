@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   myapp_ios_release_versions.plist
+   KQJ
+
+   Created by cjww on 2019/5/15.
+   Copyright (c) 2019 lqs. All rights reserved.
+-->
+<plist version="1.0">
+    <dict>
+        <key>1.0.0</key>
+        <string>First release</string>
+        <key>1.1.0</key>
+        <string>NEW: fixed bugs</string>
+    </dict>
+</plist>
